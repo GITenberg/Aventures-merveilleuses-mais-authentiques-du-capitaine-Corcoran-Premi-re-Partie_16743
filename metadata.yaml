@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6905
     wikipedia: http://fr.wikipedia.org/wiki/Alfred_Assollant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16743#Aventures-merveilleuses-mais-authentiques-du-capitaine-Corcoran-Premi-re-Partie
 gutenberg_bookshelf:
 - Pirates, Buccaneers, Corsairs, etc.
 - FR Jeunesse
